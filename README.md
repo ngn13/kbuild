@@ -1,4 +1,4 @@
-# kbuild | build the kernel for dev/hacking
+# kbuild | kernel build script for dev/hacking
 simple script for building the kernel for development and hacking purposes,
 script is designed for `x86_64` builds, but you can easily change that
 by doing a little bit of editing

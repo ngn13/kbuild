@@ -9,7 +9,7 @@ just specify the version, for example:
 ```bash
 ./kbuild.sh 5.15.135
 ```
-you can also build the staging kernel using `git` as the version
+you can also build the staging kernel using `staging` as the version
 
 to build using a specific config, specify config's path at the end:
 ```bash
